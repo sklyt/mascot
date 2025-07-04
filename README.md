@@ -13,7 +13,7 @@ go get -u github.com/go-gl/glfw/v3.3/glfw
 
 ```
 
-_(Optional)_ If you really want backwards / compatibility profiles or GLES for testing on GLES devices, you can pull in those too:
+_(Optional)_ If you want backwards / compatibility profiles or GLES for testing on GLES devices, you can pull in these too:
 
 ```bash
 go get -u github.com/go-gl/gl/v4.1-compatibility/gl
